@@ -9,4 +9,4 @@
 
 Mac 接口诊断：`python3 scripts/test_wiki_api.py`，仅发起一次站点元数据请求，不抓取正文。需已安装 Python 3。
 
-GitHub 远程仓库尚未建立：本机没有 gh 命令，当前连接器未提供创建仓库能力。可将本目录作为初始仓库上传。不得将项目描述为官方授权。
+项目仓库：https://github.com/Aquila-CCG/Brotato-Wiki-CN 。本项目非官方授权项目。
