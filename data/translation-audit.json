@@ -1,0 +1,105 @@
+{
+  "checkedAt": "2026-11-24",
+  "scope": "CSV localization rows, excluding header and loc_keys metadata; not Wiki entity coverage or translation correctness",
+  "files": [
+    {
+      "file": "translations-v1.1.14.1.csv",
+      "commit": "442c3446c922e22cd7f1305bc206ac0219ed7d07",
+      "blobSha": "0d969c45abb10e0cf388dc066e94e1f24f8422e2",
+      "rows": 1149,
+      "uniqueKeys": 1148,
+      "malformedRows": 0,
+      "duplicateKeys": [
+        {
+          "key": "EFFECT_GOLD_ON_CRIT_KILL",
+          "count": 2
+        }
+      ],
+      "locales": {
+        "zh": {
+          "nonempty": 1149,
+          "missing": 0,
+          "missingKeys": [],
+          "numericPlaceholderMismatchKeys": []
+        },
+        "zh_TW": {
+          "nonempty": 1149,
+          "missing": 0,
+          "missingKeys": [],
+          "numericPlaceholderMismatchKeys": [
+            "EFFECT_TURRET_FLAME"
+          ]
+        }
+      },
+      "mappings": [
+        {
+          "id": "character-well-rounded",
+          "name": "Well Rounded",
+          "wikiRevision": 7393,
+          "wikiPage": "https://brotato.wiki.spellsandguns.com/Well_Rounded",
+          "csvEnglishOverride": "Well-Rounded",
+          "overrideReason": "Manually checked punctuation difference between Wiki title and CSV English name",
+          "candidateKeys": [
+            "CHARACTER_WELL_ROUNDED"
+          ],
+          "status": "candidate",
+          "zhPresent": true,
+          "zhHantPresent": true,
+          "publishable": false
+        },
+        {
+          "id": "weapon-stick",
+          "name": "Stick",
+          "wikiRevision": 6782,
+          "wikiPage": "https://brotato.wiki.spellsandguns.com/Stick",
+          "candidateKeys": [
+            "WEAPON_STICK"
+          ],
+          "status": "candidate",
+          "zhPresent": true,
+          "zhHantPresent": true,
+          "publishable": false
+        },
+        {
+          "id": "item-plant",
+          "name": "Plant",
+          "wikiRevision": 6733,
+          "wikiPage": "https://brotato.wiki.spellsandguns.com/Plant",
+          "candidateKeys": [
+            "ITEM_PLANT"
+          ],
+          "status": "candidate",
+          "zhPresent": true,
+          "zhHantPresent": true,
+          "publishable": false
+        }
+      ]
+    },
+    {
+      "file": "translations-v1.1.13.2-dlc_1.csv",
+      "commit": "442c3446c922e22cd7f1305bc206ac0219ed7d07",
+      "blobSha": "637fbd5ae6b251d6d4c6f570e38f285a94bce90d",
+      "rows": 264,
+      "uniqueKeys": 264,
+      "malformedRows": 0,
+      "duplicateKeys": [],
+      "locales": {
+        "zh": {
+          "nonempty": 264,
+          "missing": 0,
+          "missingKeys": [],
+          "numericPlaceholderMismatchKeys": []
+        },
+        "zh_TW": {
+          "nonempty": 264,
+          "missing": 0,
+          "missingKeys": [],
+          "numericPlaceholderMismatchKeys": [
+            "EFFECT_BONUS_WEAPON_CLASS_DAMAGE_AGAINST_CURSED_ENEMIES"
+          ]
+        }
+      },
+      "mappings": []
+    }
+  ]
+}
