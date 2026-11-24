@@ -1,0 +1,10 @@
+const assert=require('node:assert/strict');
+const {parseCSV,analyze}=require('./audit-translations.cjs');
+assert.deepEqual(parseCSV('\uFEFFa,b\r\n"one, two","three\nlines"\r\n"say ""hi""",ok'),[['a','b'],['one, two','three\nlines'],['say "hi"','ok']]);
+assert.throws(()=>parseCSV('a,"unfinished'));
+assert.throws(()=>analyze('key,en\na,b'));
+const sample='keys,en,zh,zh_TW\nloc_keys,english,schinese,tchinese\nA,Demo-A,甲,甲\nB,Value {0} {1},值{0} {1},值{0}\nB,Other,,其他\n';
+const r=analyze(sample,[{name:'Demo A',csvEnglishOverride:'Demo-A'},{name:'Unknown'}]);
+assert.equal(r.rows,3);assert.equal(r.uniqueKeys,2);assert.equal(r.duplicateKeys[0].key,'B');assert.equal(r.locales.zh.missing,1);assert.deepEqual(r.locales.zh_TW.numericPlaceholderMismatchKeys,['B']);assert.equal(r.mappings[0].status,'candidate');assert.equal(r.mappings[0].publishable,false);assert.equal(r.mappings[1].status,'unmatched');
+assert.equal(analyze('keys,en,zh,zh_TW\nA,Same,甲,甲\nB,Same,乙,乙',[{name:'Same'}]).mappings[0].status,'ambiguous');
+console.log('PASS: CSV multiline/quotes/BOM, required columns, duplicate keys, empty cells, placeholders, explicit name override and ambiguous mapping.');
