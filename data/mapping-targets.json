@@ -1,0 +1,22 @@
+[
+  {
+    "id": "character-well-rounded",
+    "name": "Well Rounded",
+    "wikiRevision": 7393,
+    "wikiPage": "https://brotato.wiki.spellsandguns.com/Well_Rounded",
+    "csvEnglishOverride": "Well-Rounded",
+    "overrideReason": "Manually checked punctuation difference between Wiki title and CSV English name"
+  },
+  {
+    "id": "weapon-stick",
+    "name": "Stick",
+    "wikiRevision": 6782,
+    "wikiPage": "https://brotato.wiki.spellsandguns.com/Stick"
+  },
+  {
+    "id": "item-plant",
+    "name": "Plant",
+    "wikiRevision": 6733,
+    "wikiPage": "https://brotato.wiki.spellsandguns.com/Plant"
+  }
+]
