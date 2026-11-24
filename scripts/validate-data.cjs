@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 function loadData(file) {
   const source = fs.readFileSync(file, 'utf8');
-  const match = source.match(/^\/\* Original demonstration data only\. \*\/\s*window\.BROTATO_DATA = ([\s\S]+);\s*$/);
+  const match = source.match(/^\/\* (?:Original demonstration data only\.|Original editorial entries; source pages are references, not relicensed content\.) \*\/\s*window\.BROTATO_DATA = ([\s\S]+);\s*$/);
   if (!match) throw new Error('Expected JSON data assigned to window.BROTATO_DATA');
   return JSON.parse(match[1]);
 }
@@ -34,6 +34,7 @@ function validate(data) {
     check(['original','official','community','reviewed'].includes(e.translation?.status), id + ': unreviewed translation');
     check(/^\d{4}-\d{2}-\d{2}$/.test(e.translation?.reviewedAt || ''), id + ': review date required');
     check(text(e.content?.set), id + ': content set required');
+    if (e.publication?.status === 'published') check(url(e.provenance?.wikiPage) && Number.isInteger(e.provenance?.revisionId) && text(e.provenance?.checkedAt), id + ': factual reference required');
     if (e.publication?.status === 'demo') check(e.content?.set === 'demo' && source?.type === 'original', id + ': demo must be original');
     if (e.content?.set === 'mod') check(text(e.content.modId), id + ': mod ID required');
     if (source && source.type !== 'original') check(url(e.provenance.wikiPage) && text(String(e.provenance.revisionId || '')) && text(e.provenance.syncedAt), id + ': third-party source revision required');
