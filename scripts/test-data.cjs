@@ -11,7 +11,7 @@ for (const mutate of [
  d=>d.sources[0].reuse='unknown',
  d=>d.entities[0].aliases[0].status='pending',
  d=>d.entities[0].names={},
- d=>d.sources[0].type='wiki',
+ d=>d.entities[0].provenance.revisionId=null,
  d=>d.entities[0].stats=[{statId:'damage',value:'10',unit:'points',sourceId:'original-demo',tier:1}]
 ]) { const candidate=structuredClone(data);mutate(candidate);assert.ok(validate(candidate).length>0); }
 console.log('Passed valid data and 9 invalid-data rejection cases.');
