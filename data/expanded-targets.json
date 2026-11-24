@@ -1,0 +1,914 @@
+[
+  {
+    "id": "character-well-rounded",
+    "kind": "character",
+    "name": "Well Rounded",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-brawler",
+    "kind": "character",
+    "name": "Brawler",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-crazy",
+    "kind": "character",
+    "name": "Crazy",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-ranger",
+    "kind": "character",
+    "name": "Ranger",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-mage",
+    "kind": "character",
+    "name": "Mage",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-chunky",
+    "kind": "character",
+    "name": "Chunky",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-old",
+    "kind": "character",
+    "name": "Old",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-lucky",
+    "kind": "character",
+    "name": "Lucky",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-mutant",
+    "kind": "character",
+    "name": "Mutant",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-generalist",
+    "kind": "character",
+    "name": "Generalist",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-loud",
+    "kind": "character",
+    "name": "Loud",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-multitasker",
+    "kind": "character",
+    "name": "Multitasker",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-wildling",
+    "kind": "character",
+    "name": "Wildling",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-pacifist",
+    "kind": "character",
+    "name": "Pacifist",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-gladiator",
+    "kind": "character",
+    "name": "Gladiator",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-saver",
+    "kind": "character",
+    "name": "Saver",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-sick",
+    "kind": "character",
+    "name": "Sick",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-farmer",
+    "kind": "character",
+    "name": "Farmer",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-ghost",
+    "kind": "character",
+    "name": "Ghost",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-speedy",
+    "kind": "character",
+    "name": "Speedy",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-entrepreneur",
+    "kind": "character",
+    "name": "Entrepreneur",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-engineer",
+    "kind": "character",
+    "name": "Engineer",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-explorer",
+    "kind": "character",
+    "name": "Explorer",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-doctor",
+    "kind": "character",
+    "name": "Doctor",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-hunter",
+    "kind": "character",
+    "name": "Hunter",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-artificer",
+    "kind": "character",
+    "name": "Artificer",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-arms-dealer",
+    "kind": "character",
+    "name": "Arms Dealer",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-streamer",
+    "kind": "character",
+    "name": "Streamer",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-cyborg",
+    "kind": "character",
+    "name": "Cyborg",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-glutton",
+    "kind": "character",
+    "name": "Glutton",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-jack",
+    "kind": "character",
+    "name": "Jack",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-lich",
+    "kind": "character",
+    "name": "Lich",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-apprentice",
+    "kind": "character",
+    "name": "Apprentice",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-cryptid",
+    "kind": "character",
+    "name": "Cryptid",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-fisherman",
+    "kind": "character",
+    "name": "Fisherman",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-golem",
+    "kind": "character",
+    "name": "Golem",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-king",
+    "kind": "character",
+    "name": "King",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-renegade",
+    "kind": "character",
+    "name": "Renegade",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-one-armed",
+    "kind": "character",
+    "name": "One Armed",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-bull",
+    "kind": "character",
+    "name": "Bull",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-soldier",
+    "kind": "character",
+    "name": "Soldier",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-masochist",
+    "kind": "character",
+    "name": "Masochist",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-knight",
+    "kind": "character",
+    "name": "Knight",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-demon",
+    "kind": "character",
+    "name": "Demon",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-baby",
+    "kind": "character",
+    "name": "Baby",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-vagabond",
+    "kind": "character",
+    "name": "Vagabond",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-technomage",
+    "kind": "character",
+    "name": "Technomage",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-vampire",
+    "kind": "character",
+    "name": "Vampire",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-beast-master",
+    "kind": "character",
+    "name": "Beast Master",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-wounded",
+    "kind": "character",
+    "name": "Wounded",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-sailor",
+    "kind": "character",
+    "name": "Sailor",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-curious",
+    "kind": "character",
+    "name": "Curious",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-builder",
+    "kind": "character",
+    "name": "Builder",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-captain",
+    "kind": "character",
+    "name": "Captain",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-creature",
+    "kind": "character",
+    "name": "Creature",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-chef",
+    "kind": "character",
+    "name": "Chef",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-druid",
+    "kind": "character",
+    "name": "Druid",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-dwarf",
+    "kind": "character",
+    "name": "Dwarf",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-gangster",
+    "kind": "character",
+    "name": "Gangster",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-diver",
+    "kind": "character",
+    "name": "Diver",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-hiker",
+    "kind": "character",
+    "name": "Hiker",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-buccaneer",
+    "kind": "character",
+    "name": "Buccaneer",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-ogre",
+    "kind": "character",
+    "name": "Ogre",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-romantic",
+    "kind": "character",
+    "name": "Romantic",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-veteran",
+    "kind": "character",
+    "name": "Veteran",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-archaeologist",
+    "kind": "character",
+    "name": "Archaeologist",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-droid",
+    "kind": "character",
+    "name": "Droid",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-time-shifter",
+    "kind": "character",
+    "name": "Time Shifter",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-variant",
+    "kind": "character",
+    "name": "Variant",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-caveman",
+    "kind": "character",
+    "name": "Caveman",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-arsonist",
+    "kind": "character",
+    "name": "Arsonist",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-mad-scientist",
+    "kind": "character",
+    "name": "Mad Scientist",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-poacher",
+    "kind": "character",
+    "name": "Poacher",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "character-survivor",
+    "kind": "character",
+    "name": "Survivor",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+    "inventoryRevision": 8708,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-anchor",
+    "kind": "weapon",
+    "name": "Anchor",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-brick",
+    "kind": "weapon",
+    "name": "Brick",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-cacti-club",
+    "kind": "weapon",
+    "name": "Cacti Club",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-captain-s-sword",
+    "kind": "weapon",
+    "name": "Captain's Sword",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-knife",
+    "kind": "weapon",
+    "name": "Knife",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-spear",
+    "kind": "weapon",
+    "name": "Spear",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-ghost-axe",
+    "kind": "weapon",
+    "name": "Ghost Axe",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-flamethrower",
+    "kind": "weapon",
+    "name": "Flamethrower",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-grenade-launcher",
+    "kind": "weapon",
+    "name": "Grenade Launcher",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-hammer",
+    "kind": "weapon",
+    "name": "Hammer",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-mace",
+    "kind": "weapon",
+    "name": "Mace",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-rocket-launcher",
+    "kind": "weapon",
+    "name": "Rocket Launcher",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-minigun",
+    "kind": "weapon",
+    "name": "Minigun",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-nuclear-launcher",
+    "kind": "weapon",
+    "name": "Nuclear Launcher",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-obliterator",
+    "kind": "weapon",
+    "name": "Obliterator",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-particle-accelerator",
+    "kind": "weapon",
+    "name": "Particle Accelerator",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-war-hammer",
+    "kind": "weapon",
+    "name": "War Hammer",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-gatling-laser",
+    "kind": "weapon",
+    "name": "Gatling Laser",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-stick",
+    "kind": "weapon",
+    "name": "Stick",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "weapon-wrench",
+    "kind": "weapon",
+    "name": "Wrench",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+    "inventoryRevision": 8798,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-acid",
+    "kind": "item",
+    "name": "Acid",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-adrenaline",
+    "kind": "item",
+    "name": "Adrenaline",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-alien-baby",
+    "kind": "item",
+    "name": "Alien Baby",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-alien-eyes",
+    "kind": "item",
+    "name": "Alien Eyes",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-alien-magic",
+    "kind": "item",
+    "name": "Alien Magic",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-alien-tongue",
+    "kind": "item",
+    "name": "Alien Tongue",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-alien-worm",
+    "kind": "item",
+    "name": "Alien Worm",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-alloy",
+    "kind": "item",
+    "name": "Alloy",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-anvil",
+    "kind": "item",
+    "name": "Anvil",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-ashes",
+    "kind": "item",
+    "name": "Ashes",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-axolotl",
+    "kind": "item",
+    "name": "Axolotl",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-baby-elephant",
+    "kind": "item",
+    "name": "Baby Elephant",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-baby-gecko",
+    "kind": "item",
+    "name": "Baby Gecko",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-baby-squid",
+    "kind": "item",
+    "name": "Baby Squid",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-baby-with-a-beard",
+    "kind": "item",
+    "name": "Baby with a Beard",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-bag",
+    "kind": "item",
+    "name": "Bag",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-bait",
+    "kind": "item",
+    "name": "Bait",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-ball-and-chain",
+    "kind": "item",
+    "name": "Ball and Chain",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-bandana",
+    "kind": "item",
+    "name": "Bandana",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  },
+  {
+    "id": "item-banner",
+    "kind": "item",
+    "name": "Banner",
+    "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+    "inventoryRevision": 8831,
+    "entityPageRevision": null
+  }
+]
