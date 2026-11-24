@@ -1,0 +1,2242 @@
+{
+  "checkedAt": "2026-11-24",
+  "commit": "442c3446c922e22cd7f1305bc206ac0219ed7d07",
+  "sampleScope": "74 characters in observed inventory, 20 selected weapons, 20 selected items; not full weapon/item coverage",
+  "files": [
+    {
+      "file": "translations-v1.1.14.1.csv",
+      "blobSha": "0d969c45abb10e0cf388dc066e94e1f24f8422e2"
+    },
+    {
+      "file": "translations-v1.1.13.2-dlc_1.csv",
+      "blobSha": "637fbd5ae6b251d6d4c6f570e38f285a94bce90d"
+    }
+  ],
+  "counts": {
+    "character": {
+      "total": 74,
+      "candidates": 63,
+      "unmatched": 11
+    },
+    "weapon": {
+      "total": 20,
+      "candidates": 20,
+      "unmatched": 0
+    },
+    "item": {
+      "total": 20,
+      "candidates": 20,
+      "unmatched": 0
+    }
+  },
+  "entries": [
+    {
+      "id": "character-well-rounded",
+      "kind": "character",
+      "name": "Well Rounded",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_WELL_ROUNDED",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "punctuation_candidate",
+      "status": "candidate",
+      "reviewStatus": "name_correspondence_checked",
+      "publishable": false,
+      "reviewNote": "Checked English spelling: hyphen/space or curly/straight apostrophe only; game-version equivalence remains unverified"
+    },
+    {
+      "id": "character-brawler",
+      "kind": "character",
+      "name": "Brawler",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_BRAWLER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-crazy",
+      "kind": "character",
+      "name": "Crazy",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_CRAZY",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-ranger",
+      "kind": "character",
+      "name": "Ranger",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_RANGER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-mage",
+      "kind": "character",
+      "name": "Mage",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_MAGE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-chunky",
+      "kind": "character",
+      "name": "Chunky",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_CHUNKY",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-old",
+      "kind": "character",
+      "name": "Old",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_OLD",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-lucky",
+      "kind": "character",
+      "name": "Lucky",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_LUCKY",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-mutant",
+      "kind": "character",
+      "name": "Mutant",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_MUTANT",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-generalist",
+      "kind": "character",
+      "name": "Generalist",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_GENERALIST",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-loud",
+      "kind": "character",
+      "name": "Loud",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_LOUD",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-multitasker",
+      "kind": "character",
+      "name": "Multitasker",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_MULTITASKER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-wildling",
+      "kind": "character",
+      "name": "Wildling",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_WILDLING",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-pacifist",
+      "kind": "character",
+      "name": "Pacifist",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_PACIFIST",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-gladiator",
+      "kind": "character",
+      "name": "Gladiator",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_GLADIATOR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-saver",
+      "kind": "character",
+      "name": "Saver",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_SAVER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-sick",
+      "kind": "character",
+      "name": "Sick",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_SICK",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-farmer",
+      "kind": "character",
+      "name": "Farmer",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_FARMER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-ghost",
+      "kind": "character",
+      "name": "Ghost",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_GHOST",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-speedy",
+      "kind": "character",
+      "name": "Speedy",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_SPEEDY",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-entrepreneur",
+      "kind": "character",
+      "name": "Entrepreneur",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_ENTREPRENEUR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-engineer",
+      "kind": "character",
+      "name": "Engineer",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_ENGINEER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-explorer",
+      "kind": "character",
+      "name": "Explorer",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_EXPLORER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-doctor",
+      "kind": "character",
+      "name": "Doctor",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_DOCTOR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-hunter",
+      "kind": "character",
+      "name": "Hunter",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_HUNTER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-artificer",
+      "kind": "character",
+      "name": "Artificer",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_ARTIFICER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-arms-dealer",
+      "kind": "character",
+      "name": "Arms Dealer",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_ARMS_DEALER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-streamer",
+      "kind": "character",
+      "name": "Streamer",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_STREAMER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-cyborg",
+      "kind": "character",
+      "name": "Cyborg",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_CYBORG",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-glutton",
+      "kind": "character",
+      "name": "Glutton",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_GLUTTON",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-jack",
+      "kind": "character",
+      "name": "Jack",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_JACK",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-lich",
+      "kind": "character",
+      "name": "Lich",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_LICH",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-apprentice",
+      "kind": "character",
+      "name": "Apprentice",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_APPRENTICE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-cryptid",
+      "kind": "character",
+      "name": "Cryptid",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_CRYPTID",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-fisherman",
+      "kind": "character",
+      "name": "Fisherman",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_FISHERMAN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-golem",
+      "kind": "character",
+      "name": "Golem",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_GOLEM",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-king",
+      "kind": "character",
+      "name": "King",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_KING",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-renegade",
+      "kind": "character",
+      "name": "Renegade",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_RENEGADE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-one-armed",
+      "kind": "character",
+      "name": "One Armed",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_ONE_ARM",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "punctuation_candidate",
+      "status": "candidate",
+      "reviewStatus": "name_correspondence_checked",
+      "publishable": false,
+      "reviewNote": "Checked English spelling: hyphen/space or curly/straight apostrophe only; game-version equivalence remains unverified"
+    },
+    {
+      "id": "character-bull",
+      "kind": "character",
+      "name": "Bull",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_BULL",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-soldier",
+      "kind": "character",
+      "name": "Soldier",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_SOLDIER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-masochist",
+      "kind": "character",
+      "name": "Masochist",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_MASOCHIST",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-knight",
+      "kind": "character",
+      "name": "Knight",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_KNIGHT",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-demon",
+      "kind": "character",
+      "name": "Demon",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_DEMON",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-baby",
+      "kind": "character",
+      "name": "Baby",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_BABY",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-vagabond",
+      "kind": "character",
+      "name": "Vagabond",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_VAGABOND",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-technomage",
+      "kind": "character",
+      "name": "Technomage",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_TECHNOMAGE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-vampire",
+      "kind": "character",
+      "name": "Vampire",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_VAMPIRE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-beast-master",
+      "kind": "character",
+      "name": "Beast Master",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_BEAST_MASTER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-wounded",
+      "kind": "character",
+      "name": "Wounded",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": 8591,
+      "candidates": [],
+      "matchMethod": null,
+      "status": "unmatched",
+      "reviewStatus": "pending",
+      "publishable": false,
+      "entityPage": "https://brotato.wiki.spellsandguns.com/Wounded"
+    },
+    {
+      "id": "character-sailor",
+      "kind": "character",
+      "name": "Sailor",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_SAILOR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-curious",
+      "kind": "character",
+      "name": "Curious",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_CURIOUS",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-builder",
+      "kind": "character",
+      "name": "Builder",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_BUILDER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-captain",
+      "kind": "character",
+      "name": "Captain",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_CAPTAIN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-creature",
+      "kind": "character",
+      "name": "Creature",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_CREATURE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-chef",
+      "kind": "character",
+      "name": "Chef",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_CHEF",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-druid",
+      "kind": "character",
+      "name": "Druid",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_DRUID",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-dwarf",
+      "kind": "character",
+      "name": "Dwarf",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_DWARF",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-gangster",
+      "kind": "character",
+      "name": "Gangster",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_GANGSTER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-diver",
+      "kind": "character",
+      "name": "Diver",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_DIVER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-hiker",
+      "kind": "character",
+      "name": "Hiker",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_HIKER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-buccaneer",
+      "kind": "character",
+      "name": "Buccaneer",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_BUCCANEER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-ogre",
+      "kind": "character",
+      "name": "Ogre",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_OGRE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-romantic",
+      "kind": "character",
+      "name": "Romantic",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_ROMANTIC",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-veteran",
+      "kind": "character",
+      "name": "Veteran",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [],
+      "matchMethod": null,
+      "status": "unmatched",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-archaeologist",
+      "kind": "character",
+      "name": "Archaeologist",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [],
+      "matchMethod": null,
+      "status": "unmatched",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-droid",
+      "kind": "character",
+      "name": "Droid",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [],
+      "matchMethod": null,
+      "status": "unmatched",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-time-shifter",
+      "kind": "character",
+      "name": "Time Shifter",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [],
+      "matchMethod": null,
+      "status": "unmatched",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-variant",
+      "kind": "character",
+      "name": "Variant",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [],
+      "matchMethod": null,
+      "status": "unmatched",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-caveman",
+      "kind": "character",
+      "name": "Caveman",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [],
+      "matchMethod": null,
+      "status": "unmatched",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-arsonist",
+      "kind": "character",
+      "name": "Arsonist",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [],
+      "matchMethod": null,
+      "status": "unmatched",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-mad-scientist",
+      "kind": "character",
+      "name": "Mad Scientist",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [],
+      "matchMethod": null,
+      "status": "unmatched",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-poacher",
+      "kind": "character",
+      "name": "Poacher",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [],
+      "matchMethod": null,
+      "status": "unmatched",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "character-survivor",
+      "kind": "character",
+      "name": "Survivor",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Characters",
+      "inventoryRevision": 8708,
+      "entityPageRevision": null,
+      "candidates": [],
+      "matchMethod": null,
+      "status": "unmatched",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-anchor",
+      "kind": "weapon",
+      "name": "Anchor",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_ANCHOR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-brick",
+      "kind": "weapon",
+      "name": "Brick",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_BRICK",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-cacti-club",
+      "kind": "weapon",
+      "name": "Cacti Club",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_CACTI_CLUB",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-captain-s-sword",
+      "kind": "weapon",
+      "name": "Captain's Sword",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": 7865,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_CAPTAINS_SWORD",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "punctuation_candidate",
+      "status": "candidate",
+      "reviewStatus": "name_correspondence_checked",
+      "publishable": false,
+      "reviewNote": "Checked English spelling: hyphen/space or curly/straight apostrophe only; game-version equivalence remains unverified",
+      "entityPage": "https://brotato.wiki.spellsandguns.com/Captain%27s_Sword"
+    },
+    {
+      "id": "weapon-knife",
+      "kind": "weapon",
+      "name": "Knife",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_KNIFE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-spear",
+      "kind": "weapon",
+      "name": "Spear",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_SPEAR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-ghost-axe",
+      "kind": "weapon",
+      "name": "Ghost Axe",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_GHOST_AXE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-flamethrower",
+      "kind": "weapon",
+      "name": "Flamethrower",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_FLAMETHROWER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-grenade-launcher",
+      "kind": "weapon",
+      "name": "Grenade Launcher",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_GRENADE_LAUNCHER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-hammer",
+      "kind": "weapon",
+      "name": "Hammer",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_HAMMER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-mace",
+      "kind": "weapon",
+      "name": "Mace",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_MACE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-rocket-launcher",
+      "kind": "weapon",
+      "name": "Rocket Launcher",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_ROCKET_LAUNCHER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-minigun",
+      "kind": "weapon",
+      "name": "Minigun",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_MINIGUN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-nuclear-launcher",
+      "kind": "weapon",
+      "name": "Nuclear Launcher",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_NUCLEAR_LAUNCHER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-obliterator",
+      "kind": "weapon",
+      "name": "Obliterator",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_OBLITERATOR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-particle-accelerator",
+      "kind": "weapon",
+      "name": "Particle Accelerator",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_PARTICLE_ACCELERATOR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-war-hammer",
+      "kind": "weapon",
+      "name": "War Hammer",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_WAR_HAMMER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-gatling-laser",
+      "kind": "weapon",
+      "name": "Gatling Laser",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_GATLING_LASER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-stick",
+      "kind": "weapon",
+      "name": "Stick",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_STICK",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "weapon-wrench",
+      "kind": "weapon",
+      "name": "Wrench",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Weapons",
+      "inventoryRevision": 8798,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_WRENCH",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-acid",
+      "kind": "item",
+      "name": "Acid",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_ACID",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-adrenaline",
+      "kind": "item",
+      "name": "Adrenaline",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_ADRENALINE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-alien-baby",
+      "kind": "item",
+      "name": "Alien Baby",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_ALIEN_BABY",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-alien-eyes",
+      "kind": "item",
+      "name": "Alien Eyes",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_ALIEN_EYES",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-alien-magic",
+      "kind": "item",
+      "name": "Alien Magic",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_ALIEN_MAGIC",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-alien-tongue",
+      "kind": "item",
+      "name": "Alien Tongue",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_ALIEN_TONGUE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-alien-worm",
+      "kind": "item",
+      "name": "Alien Worm",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_ALIEN_WORM",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-alloy",
+      "kind": "item",
+      "name": "Alloy",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_ALLOY",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-anvil",
+      "kind": "item",
+      "name": "Anvil",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_ANVIL",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-ashes",
+      "kind": "item",
+      "name": "Ashes",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "ITEM_ASHES",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-axolotl",
+      "kind": "item",
+      "name": "Axolotl",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "ITEM_AXOLOTL",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-baby-elephant",
+      "kind": "item",
+      "name": "Baby Elephant",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_BABY_ELEPHANT",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-baby-gecko",
+      "kind": "item",
+      "name": "Baby Gecko",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_BABY_GECKO",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-baby-squid",
+      "kind": "item",
+      "name": "Baby Squid",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "ITEM_BABY_SQUID",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-baby-with-a-beard",
+      "kind": "item",
+      "name": "Baby with a Beard",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_BABY_WITH_A_BEARD",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-bag",
+      "kind": "item",
+      "name": "Bag",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_BAG",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-bait",
+      "kind": "item",
+      "name": "Bait",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_BAIT",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-ball-and-chain",
+      "kind": "item",
+      "name": "Ball and Chain",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_BALL_AND_CHAIN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-bandana",
+      "kind": "item",
+      "name": "Bandana",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_BANDANA",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    },
+    {
+      "id": "item-banner",
+      "kind": "item",
+      "name": "Banner",
+      "inventoryPage": "https://brotato.wiki.spellsandguns.com/Items",
+      "inventoryRevision": 8831,
+      "entityPageRevision": null,
+      "candidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "ITEM_BANNER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "matchMethod": "exact",
+      "status": "candidate",
+      "reviewStatus": "pending",
+      "publishable": false
+    }
+  ]
+}
