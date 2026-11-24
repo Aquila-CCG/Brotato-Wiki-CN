@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - 'site/**'
+      - 'scripts/*.cjs'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 permissions:
@@ -27,6 +28,8 @@ jobs:
         run: |
           node --check site/app.js
           node --check site/data.js
+          node scripts/validate-data.cjs
+          node scripts/test-data.cjs
       - name: Prepare public files
         run: |
           mkdir -p _public
