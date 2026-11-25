@@ -1,0 +1,21 @@
+name: Audit icon metadata
+on:
+  push:
+    branches: [assets/icon-inventory]
+    paths: ['scripts/collect-icons.py', '.github/workflows/collect-icons.yml']
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+      - run: python3 scripts/collect-icons.py
+      - name: Save metadata for review
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/icon-assets.json
+          git diff --cached --quiet || git commit -m 'Record icon source metadata for review'
+          git push
