@@ -1,0 +1,5414 @@
+{
+  "checkedAt": "2026-11-25T08:12:05Z",
+  "scope": "74 characters from inventory; 90 weapon image candidates selected from large linked images on Weapons; 17 primary stats including Curse. Weapon inventory and visual review pending. No tier-specific variants asserted.",
+  "entities": [
+    {
+      "id": "character-well-rounded",
+      "kind": "character",
+      "name": "Well Rounded",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_WELL_ROUNDED",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Well_Rounded.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/3/32/Well_Rounded.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Well_Rounded.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "6efa94fa12c714db5fd930bd912c6218545ee4d3",
+          "altEn": "Well Rounded icon",
+          "altZh": "Well Rounded图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-brawler",
+      "kind": "character",
+      "name": "Brawler",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_BRAWLER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Brawler.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/f/fa/Brawler.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Brawler.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "6f0e8133b92b0e2ea1bf5bf8b11f9d4d857e04f9",
+          "altEn": "Brawler icon",
+          "altZh": "Brawler图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-crazy",
+      "kind": "character",
+      "name": "Crazy",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_CRAZY",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Crazy.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/1/10/Crazy.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Crazy.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "d8b8ebe670bab32d1a9563992ff71e4b434f1591",
+          "altEn": "Crazy icon",
+          "altZh": "Crazy图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-ranger",
+      "kind": "character",
+      "name": "Ranger",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_RANGER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Ranger.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/e/e9/Ranger.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Ranger.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "44f8fdeb58a406c5750bb8774d387241e3f5b758",
+          "altEn": "Ranger icon",
+          "altZh": "Ranger图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-mage",
+      "kind": "character",
+      "name": "Mage",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_MAGE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Mage.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/2/20/Mage.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Mage.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "c6c3d91d0f1bdf07e5c8686584eb2b0fb756cc98",
+          "altEn": "Mage icon",
+          "altZh": "Mage图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-chunky",
+      "kind": "character",
+      "name": "Chunky",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_CHUNKY",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Chunky.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/8/83/Chunky.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Chunky.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "653b58de758cd983f9bc899025f72251e12642ae",
+          "altEn": "Chunky icon",
+          "altZh": "Chunky图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-old",
+      "kind": "character",
+      "name": "Old",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_OLD",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Old.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/9/9a/Old.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Old.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "e8a59cee15970f1442c92a3ec6aa0c3c82c60c27",
+          "altEn": "Old icon",
+          "altZh": "Old图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-lucky",
+      "kind": "character",
+      "name": "Lucky",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_LUCKY",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Lucky.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/a6/Lucky.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Lucky.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "bd09f46591399d5772751cb9f58634ed202b1632",
+          "altEn": "Lucky icon",
+          "altZh": "Lucky图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-mutant",
+      "kind": "character",
+      "name": "Mutant",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_MUTANT",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Mutant.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/5/58/Mutant.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Mutant.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "1d855095a9381369472c4cfe8581f215d5cb093c",
+          "altEn": "Mutant icon",
+          "altZh": "Mutant图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-generalist",
+      "kind": "character",
+      "name": "Generalist",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_GENERALIST",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Generalist.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/e/e3/Generalist.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Generalist.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "74509262982feeb8a1b197634307b240301afef1",
+          "altEn": "Generalist icon",
+          "altZh": "Generalist图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-loud",
+      "kind": "character",
+      "name": "Loud",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_LOUD",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Loud.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/0/00/Loud.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Loud.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "84eab0b1adea1e0f3413c8b4045d81c3c97b4eda",
+          "altEn": "Loud icon",
+          "altZh": "Loud图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-multitasker",
+      "kind": "character",
+      "name": "Multitasker",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_MULTITASKER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Multitasker.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/f/fd/Multitasker.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Multitasker.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "16b9228e4ea05638bf8355bd9f4605d23725b17e",
+          "altEn": "Multitasker icon",
+          "altZh": "Multitasker图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-wildling",
+      "kind": "character",
+      "name": "Wildling",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_WILDLING",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Wildling.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/b/bb/Wildling.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Wildling.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "31589d95272ed3bfd30261c796193db24d533df4",
+          "altEn": "Wildling icon",
+          "altZh": "Wildling图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-pacifist",
+      "kind": "character",
+      "name": "Pacifist",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_PACIFIST",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Pacifist.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/4/4a/Pacifist.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Pacifist.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "439101a30beae92a18547e149acbf3c1a2d8627a",
+          "altEn": "Pacifist icon",
+          "altZh": "Pacifist图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-gladiator",
+      "kind": "character",
+      "name": "Gladiator",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_GLADIATOR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Gladiator.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/4/44/Gladiator.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Gladiator.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "5675b99d53586944139fe37908e3975fa363de06",
+          "altEn": "Gladiator icon",
+          "altZh": "Gladiator图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-saver",
+      "kind": "character",
+      "name": "Saver",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_SAVER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Saver.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/8/84/Saver.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Saver.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "12175539a3ba644db82d590e5b688d3b6ea0e4e0",
+          "altEn": "Saver icon",
+          "altZh": "Saver图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-sick",
+      "kind": "character",
+      "name": "Sick",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_SICK",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Sick.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/b/b4/Sick.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Sick.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "54602dee7fa924cccd18b2319473edc845d00fe7",
+          "altEn": "Sick icon",
+          "altZh": "Sick图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-farmer",
+      "kind": "character",
+      "name": "Farmer",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_FARMER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Farmer.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/3/3d/Farmer.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Farmer.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "f19d4026c98299ad021bcff4ddb048178b14de9b",
+          "altEn": "Farmer icon",
+          "altZh": "Farmer图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-ghost",
+      "kind": "character",
+      "name": "Ghost",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_GHOST",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Ghost.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/ab/Ghost.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Ghost.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "4d29c598a0427d271d7b60784abc3a7655048db0",
+          "altEn": "Ghost icon",
+          "altZh": "Ghost图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-speedy",
+      "kind": "character",
+      "name": "Speedy",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_SPEEDY",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Speedy.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/a5/Speedy.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Speedy.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "04a8b8429b64d3874f4f7d05849c0434a1d2f468",
+          "altEn": "Speedy icon",
+          "altZh": "Speedy图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-entrepreneur",
+      "kind": "character",
+      "name": "Entrepreneur",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_ENTREPRENEUR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Entrepreneur.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/4/4d/Entrepreneur.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Entrepreneur.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "4d36266c9accb485657463d4aef0d70f99b16bb6",
+          "altEn": "Entrepreneur icon",
+          "altZh": "Entrepreneur图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-engineer",
+      "kind": "character",
+      "name": "Engineer",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_ENGINEER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Engineer.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/d/d8/Engineer.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Engineer.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "8f2e1aa64e4a546fbd88c13bda92923f6a809547",
+          "altEn": "Engineer icon",
+          "altZh": "Engineer图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-explorer",
+      "kind": "character",
+      "name": "Explorer",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_EXPLORER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Explorer.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/ca/Explorer.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Explorer.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "e680a03f4ed6877d2f829f77058a31fd03f10054",
+          "altEn": "Explorer icon",
+          "altZh": "Explorer图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-doctor",
+      "kind": "character",
+      "name": "Doctor",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_DOCTOR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Doctor.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/6/6c/Doctor.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Doctor.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "df61aebdb3aaf7b035aabe09f82dda0a20121cb5",
+          "altEn": "Doctor icon",
+          "altZh": "Doctor图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-hunter",
+      "kind": "character",
+      "name": "Hunter",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_HUNTER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Hunter.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/4/4b/Hunter.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Hunter.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "e0a8687ff81212e2f3d97d4dac6e3e59277fd42a",
+          "altEn": "Hunter icon",
+          "altZh": "Hunter图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-artificer",
+      "kind": "character",
+      "name": "Artificer",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_ARTIFICER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Artificer.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/9/98/Artificer.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Artificer.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "e2929513d1bfef4d5c709b3684e43200adae63c1",
+          "altEn": "Artificer icon",
+          "altZh": "Artificer图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-arms-dealer",
+      "kind": "character",
+      "name": "Arms Dealer",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_ARMS_DEALER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Arms_Dealer.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/9/9e/Arms_Dealer.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Arms_Dealer.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "912ca55ab51a503cf79e024931cb13ee058a0163",
+          "altEn": "Arms Dealer icon",
+          "altZh": "Arms Dealer图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-streamer",
+      "kind": "character",
+      "name": "Streamer",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_STREAMER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Streamer.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/0/04/Streamer.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Streamer.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "a463458f3c5080cbe77de2fa12d12572394a9dea",
+          "altEn": "Streamer icon",
+          "altZh": "Streamer图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-cyborg",
+      "kind": "character",
+      "name": "Cyborg",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_CYBORG",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Cyborg.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/a3/Cyborg.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Cyborg.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "b52cb9cd2dc6b51167e8b60da217c744d997317e",
+          "altEn": "Cyborg icon",
+          "altZh": "Cyborg图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-glutton",
+      "kind": "character",
+      "name": "Glutton",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_GLUTTON",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Glutton.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/3/39/Glutton.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Glutton.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "9b3870b1bfcf838f3c0eed0f604caf6e4bb5909e",
+          "altEn": "Glutton icon",
+          "altZh": "Glutton图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-jack",
+      "kind": "character",
+      "name": "Jack",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_JACK",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Jack.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/4/46/Jack.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Jack.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "dba10a42208d35abd674a9ce36ad994c6bc8e049",
+          "altEn": "Jack icon",
+          "altZh": "Jack图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-lich",
+      "kind": "character",
+      "name": "Lich",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_LICH",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Lich.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/8/86/Lich.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Lich.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "8d92482ab2f8be761109e0e82c25f6c0bdb8179d",
+          "altEn": "Lich icon",
+          "altZh": "Lich图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-apprentice",
+      "kind": "character",
+      "name": "Apprentice",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_APPRENTICE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Apprentice.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/6/66/Apprentice.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Apprentice.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "708c152799759177bac30d6bce09023c7310159a",
+          "altEn": "Apprentice icon",
+          "altZh": "Apprentice图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-cryptid",
+      "kind": "character",
+      "name": "Cryptid",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_CRYPTID",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Cryptid.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/5/52/Cryptid.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Cryptid.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "00f4ef3b5db7ad9b5cebce25788d2436630f6e66",
+          "altEn": "Cryptid icon",
+          "altZh": "Cryptid图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-fisherman",
+      "kind": "character",
+      "name": "Fisherman",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_FISHERMAN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Fisherman.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/f/f0/Fisherman.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Fisherman.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "3925fac0da39ff2f70ff24df40a9fcdd4046251e",
+          "altEn": "Fisherman icon",
+          "altZh": "Fisherman图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-golem",
+      "kind": "character",
+      "name": "Golem",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_GOLEM",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Golem.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/ce/Golem.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Golem.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "5fd4aba999d2eabbb39ee601c33b851c066246cc",
+          "altEn": "Golem icon",
+          "altZh": "Golem图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-king",
+      "kind": "character",
+      "name": "King",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_KING",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:King.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/1/1d/King.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:King.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "1162a553248e2d47f7b509003aaa7e3d912395c2",
+          "altEn": "King icon",
+          "altZh": "King图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-renegade",
+      "kind": "character",
+      "name": "Renegade",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_RENEGADE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Renegade.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/1/17/Renegade.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Renegade.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "56d021ded87b825ee94cd8a17683dc80e4c2ef9f",
+          "altEn": "Renegade icon",
+          "altZh": "Renegade图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-one-armed",
+      "kind": "character",
+      "name": "One Armed",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_ONE_ARM",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:One_Armed.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/7/75/One_Armed.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:One_Armed.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "29a4019fa2054f94f1968053af10ee5ae6bbd87c",
+          "altEn": "One Armed icon",
+          "altZh": "One Armed图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-bull",
+      "kind": "character",
+      "name": "Bull",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_BULL",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Bull.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/7/7a/Bull.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Bull.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "3ea84a54f76460afed67ac8ce1a766b4c19f33b2",
+          "altEn": "Bull icon",
+          "altZh": "Bull图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-soldier",
+      "kind": "character",
+      "name": "Soldier",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_SOLDIER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Soldier.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/7/7b/Soldier.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Soldier.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "43508aee67697c72e76f98d3b593beff45136e27",
+          "altEn": "Soldier icon",
+          "altZh": "Soldier图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-masochist",
+      "kind": "character",
+      "name": "Masochist",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_MASOCHIST",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Masochist.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/7/7b/Masochist.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Masochist.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "2a17d3a4f229bc587ca4e4f29adb736662dd54e8",
+          "altEn": "Masochist icon",
+          "altZh": "Masochist图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-knight",
+      "kind": "character",
+      "name": "Knight",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_KNIGHT",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Knight.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/6/6b/Knight.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Knight.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "9f3ffb7b2301cd9327f6219220c4f2a90eabb6ba",
+          "altEn": "Knight icon",
+          "altZh": "Knight图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-demon",
+      "kind": "character",
+      "name": "Demon",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_DEMON",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Demon.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/c4/Demon.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Demon.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "5bef483100ea1b1e0f2049c2d5abc1540a54a7f7",
+          "altEn": "Demon icon",
+          "altZh": "Demon图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-baby",
+      "kind": "character",
+      "name": "Baby",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_BABY",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Baby.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/6/62/Baby.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Baby.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "fb1d968a7b337c5873141501746ac86d477305dc",
+          "altEn": "Baby icon",
+          "altZh": "Baby图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-vagabond",
+      "kind": "character",
+      "name": "Vagabond",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_VAGABOND",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Vagabond.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/e/e7/Vagabond.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Vagabond.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "c54027006b90cd672466aac9c06f3c839ee6eff8",
+          "altEn": "Vagabond icon",
+          "altZh": "Vagabond图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-technomage",
+      "kind": "character",
+      "name": "Technomage",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_TECHNOMAGE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Technomage.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/6/69/Technomage.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Technomage.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "c05f7801e7b911c8d0dfd96edc6bc6951aa9872b",
+          "altEn": "Technomage icon",
+          "altZh": "Technomage图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-vampire",
+      "kind": "character",
+      "name": "Vampire",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_VAMPIRE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Vampire.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/4/4e/Vampire.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Vampire.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "4840b1d44b5b0107b6521cda9eded61e7d1976a3",
+          "altEn": "Vampire icon",
+          "altZh": "Vampire图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-beast-master",
+      "kind": "character",
+      "name": "Beast Master",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "CHARACTER_BEAST_MASTER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Beast_Master.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/0/04/Beast_Master.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Beast_Master.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "756125d29a129ef56b3981637de4eb1a686bba0e",
+          "altEn": "Beast Master icon",
+          "altZh": "Beast Master图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-wounded",
+      "kind": "character",
+      "name": "Wounded",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Wounded.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/2/27/Wounded.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Wounded.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "bc94f32d60eb9106ad278ecdc5671755d36ad1ab",
+          "altEn": "Wounded icon",
+          "altZh": "Wounded图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-sailor",
+      "kind": "character",
+      "name": "Sailor",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_SAILOR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Sailor.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/ce/Sailor.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Sailor.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "0847c4c660fa76f000e8c20a6a9f6680a5911034",
+          "altEn": "Sailor icon",
+          "altZh": "Sailor图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-curious",
+      "kind": "character",
+      "name": "Curious",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_CURIOUS",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Curious.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/cf/Curious.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Curious.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "cad30e635e7fb01a21964e0131e1d02dd2fc13b9",
+          "altEn": "Curious icon",
+          "altZh": "Curious图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-builder",
+      "kind": "character",
+      "name": "Builder",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_BUILDER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Builder.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/1/14/Builder.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Builder.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "e9a4c1ce7d115b35dad564580c265f4ee0d58092",
+          "altEn": "Builder icon",
+          "altZh": "Builder图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-captain",
+      "kind": "character",
+      "name": "Captain",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_CAPTAIN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Captain.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/a9/Captain.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Captain.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "2eeb7c98d36eff913e21a5b4d76468ed701dbebd",
+          "altEn": "Captain icon",
+          "altZh": "Captain图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-creature",
+      "kind": "character",
+      "name": "Creature",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_CREATURE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Creature.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/d/d5/Creature.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Creature.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "e438044c1a2dcf375ac6a7506004a6a94870f7aa",
+          "altEn": "Creature icon",
+          "altZh": "Creature图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-chef",
+      "kind": "character",
+      "name": "Chef",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_CHEF",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Chef.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/e/e5/Chef.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Chef.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "a28d9ddbf338e96e1617630eb04e290b7bd96041",
+          "altEn": "Chef icon",
+          "altZh": "Chef图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-druid",
+      "kind": "character",
+      "name": "Druid",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_DRUID",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Druid.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/9/9d/Druid.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Druid.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "c11a8733260fed30898a0483742e778ef17fbb7b",
+          "altEn": "Druid icon",
+          "altZh": "Druid图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-dwarf",
+      "kind": "character",
+      "name": "Dwarf",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_DWARF",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Dwarf.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/e/ed/Dwarf.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Dwarf.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "5619f8d4076578bb300937bffbd9c961d00bd61c",
+          "altEn": "Dwarf icon",
+          "altZh": "Dwarf图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-gangster",
+      "kind": "character",
+      "name": "Gangster",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_GANGSTER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Gangster.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/4/44/Gangster.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Gangster.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "19e3c54ce1e99bea47974714cd42f7a061093dcd",
+          "altEn": "Gangster icon",
+          "altZh": "Gangster图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-diver",
+      "kind": "character",
+      "name": "Diver",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_DIVER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Diver.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/a2/Diver.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Diver.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "5fba869022366b36aca661aa8935826e3ebfde60",
+          "altEn": "Diver icon",
+          "altZh": "Diver图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-hiker",
+      "kind": "character",
+      "name": "Hiker",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_HIKER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Hiker.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/a9/Hiker.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Hiker.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "58621ffe82df1a4a589b3f7994921c140df0f007",
+          "altEn": "Hiker icon",
+          "altZh": "Hiker图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-buccaneer",
+      "kind": "character",
+      "name": "Buccaneer",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_BUCCANEER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Buccaneer.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/d/de/Buccaneer.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Buccaneer.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "44fd431fbc81e40d0a7ae09b3fcf094afb88f4af",
+          "altEn": "Buccaneer icon",
+          "altZh": "Buccaneer图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-ogre",
+      "kind": "character",
+      "name": "Ogre",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_OGRE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Ogre.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/c5/Ogre.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Ogre.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "0ff020227692c77301f3bc3cca2aa6cb7fe8c7c8",
+          "altEn": "Ogre icon",
+          "altZh": "Ogre图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-romantic",
+      "kind": "character",
+      "name": "Romantic",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "CHARACTER_ROMANTIC",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Romantic.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/b/b2/Romantic.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Romantic.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "1de75c44b82fc247a6553b161711d3447ffcdc8d",
+          "altEn": "Romantic icon",
+          "altZh": "Romantic图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-veteran",
+      "kind": "character",
+      "name": "Veteran",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Veteran.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/c5/Veteran.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Veteran.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "64ee0cc914046166e4de26664aa9ccbd5ee94a2a",
+          "altEn": "Veteran icon",
+          "altZh": "Veteran图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-archaeologist",
+      "kind": "character",
+      "name": "Archaeologist",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Archaeologist.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/5/5a/Archaeologist.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Archaeologist.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "b2b74af35173fcb37bf075dd6d9c3e833e9634ad",
+          "altEn": "Archaeologist icon",
+          "altZh": "Archaeologist图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-droid",
+      "kind": "character",
+      "name": "Droid",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Droid.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/b/b6/Droid.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Droid.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "9a7cbe020d707fd08fef5f0b4d7577b4c0362ee7",
+          "altEn": "Droid icon",
+          "altZh": "Droid图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-time-shifter",
+      "kind": "character",
+      "name": "Time Shifter",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Time_Shifter.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/d/d9/Time_Shifter.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Time_Shifter.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "138b929cfbfee3d26e8aa0195b50bbec5af3b917",
+          "altEn": "Time Shifter icon",
+          "altZh": "Time Shifter图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-variant",
+      "kind": "character",
+      "name": "Variant",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Variant.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/e/e8/Variant.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Variant.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "b82ac565b8a643e27ffcde20de4126939c3afda5",
+          "altEn": "Variant icon",
+          "altZh": "Variant图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-caveman",
+      "kind": "character",
+      "name": "Caveman",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Caveman.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/9/9b/Caveman.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Caveman.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "a0f156fda6776c420aada87e13359ceee0b106f0",
+          "altEn": "Caveman icon",
+          "altZh": "Caveman图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-arsonist",
+      "kind": "character",
+      "name": "Arsonist",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Arsonist.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/c3/Arsonist.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Arsonist.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "a7b6af282bf797b2c74f801e516aa9e6f68eee69",
+          "altEn": "Arsonist icon",
+          "altZh": "Arsonist图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-mad-scientist",
+      "kind": "character",
+      "name": "Mad Scientist",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Mad_Scientist.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/1/1a/Mad_Scientist.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Mad_Scientist.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "255ec6c510b94445004edc8b49037defd2c55ae6",
+          "altEn": "Mad Scientist icon",
+          "altZh": "Mad Scientist图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-poacher",
+      "kind": "character",
+      "name": "Poacher",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Poacher.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/9/9a/Poacher.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Poacher.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "afb05b6f1311626f4a7f367b94c6c0ec2be7081c",
+          "altEn": "Poacher icon",
+          "altZh": "Poacher图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "character-survivor",
+      "kind": "character",
+      "name": "Survivor",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Survivor.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/f/fa/Survivor.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Survivor.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "c70c353dba2ef9a66062811a773dc9b0006122d6",
+          "altEn": "Survivor icon",
+          "altZh": "Survivor图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-anchor",
+      "kind": "weapon",
+      "name": "Anchor",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_ANCHOR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Anchor.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/c0/Anchor.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Anchor.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "ab7334f022902d1a9b284fc2247c380b566cdac8",
+          "altEn": "Anchor icon",
+          "altZh": "Anchor图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-awl",
+      "kind": "weapon",
+      "name": "Awl",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Awl.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/a1/Awl.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Awl.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "f0cf4e1d603adefba93355a7f122950de12d597d",
+          "altEn": "Awl icon",
+          "altZh": "Awl图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-blunderbuss",
+      "kind": "weapon",
+      "name": "Blunderbuss",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_BLUNDERBUSS",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Blunderbuss.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/b/b3/Blunderbuss.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Blunderbuss.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "7366b799338f5794c75814c1ff766d35c437b481",
+          "altEn": "Blunderbuss icon",
+          "altZh": "Blunderbuss图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-brick",
+      "kind": "weapon",
+      "name": "Brick",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_BRICK",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Brick.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/5/58/Brick.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Brick.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "1ee563d3f12593ef0519d9cb94c451ce0374072c",
+          "altEn": "Brick icon",
+          "altZh": "Brick图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-cacti-club",
+      "kind": "weapon",
+      "name": "Cacti Club",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_CACTI_CLUB",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Cacti_Club.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/a1/Cacti_Club.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Cacti_Club.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "aec070cbb84bcc9a4235a18b0904a456e5b6452d",
+          "altEn": "Cacti Club icon",
+          "altZh": "Cacti Club图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-captain-s-sword",
+      "kind": "weapon",
+      "name": "Captain's Sword",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_CAPTAINS_SWORD",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Captain's_Sword.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/b/b7/Captain%27s_Sword.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Captain%27s_Sword.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "e8da824ac0b47f2aa2654a222dac9c4661188005",
+          "altEn": "Captain's Sword icon",
+          "altZh": "Captain's Sword图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-carbon-bow",
+      "kind": "weapon",
+      "name": "Carbon Bow",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Carbon_Bow.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/1/1b/Carbon_Bow.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Carbon_Bow.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "bc4dfe22bb0e9ab9a3894ca5c062be6688cf6ca8",
+          "altEn": "Carbon Bow icon",
+          "altZh": "Carbon Bow图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-chain-gun",
+      "kind": "weapon",
+      "name": "Chain Gun",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_CHAIN_GUN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Chain_Gun.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/3/3c/Chain_Gun.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Chain_Gun.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "b3267556d50c1e2b7f94d3d71ddd856dd75069c2",
+          "altEn": "Chain Gun icon",
+          "altZh": "Chain Gun图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-chainsaw",
+      "kind": "weapon",
+      "name": "Chainsaw",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_CHAINSAW",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Chainsaw.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/cc/Chainsaw.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Chainsaw.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "3b8159bf79f2f43f07540abf9eb9346aeeeddafc",
+          "altEn": "Chainsaw icon",
+          "altZh": "Chainsaw图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-chopper",
+      "kind": "weapon",
+      "name": "Chopper",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_CHOPPER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Chopper.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/a6/Chopper.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Chopper.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "561be02cc8a54cf7c1ecbebfd4f5457f113c1e94",
+          "altEn": "Chopper icon",
+          "altZh": "Chopper图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-circular-saw",
+      "kind": "weapon",
+      "name": "Circular Saw",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_CIRCULAR_SAW",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Circular_Saw.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/c7/Circular_Saw.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Circular_Saw.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "e14a48985bbdd3135fec6406f1c6c334527eedab",
+          "altEn": "Circular Saw icon",
+          "altZh": "Circular Saw图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-claw",
+      "kind": "weapon",
+      "name": "Claw",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_CLAW",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Claw.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/4/47/Claw.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Claw.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "88769ff99dae4c81464b34c529641e45e3decf31",
+          "altEn": "Claw icon",
+          "altZh": "Claw图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-combat-shotgun",
+      "kind": "weapon",
+      "name": "Combat Shotgun",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Combat_Shotgun.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/e/e8/Combat_Shotgun.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Combat_Shotgun.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "8b6897a410613258090403912849d95db59154c4",
+          "altEn": "Combat Shotgun icon",
+          "altZh": "Combat Shotgun图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-crossbow",
+      "kind": "weapon",
+      "name": "Crossbow",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_CROSSBOW",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Crossbow.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/7/79/Crossbow.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Crossbow.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "f012bdcbb9d296345d5d401378f9545e95866faa",
+          "altEn": "Crossbow icon",
+          "altZh": "Crossbow图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-crowbar",
+      "kind": "weapon",
+      "name": "Crowbar",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Crowbar.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/c0/Crowbar.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Crowbar.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "5c1e96c7f403bcf6dbb8e07b85b24fe0a4d7bbb2",
+          "altEn": "Crowbar icon",
+          "altZh": "Crowbar图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-dex-troyer",
+      "kind": "weapon",
+      "name": "DEX-troyer",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_DEXTROYER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:DEX-troyer.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/3/3c/DEX-troyer.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:DEX-troyer.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "39305d273b8547881bbca3317e15dd241f8aa5c1",
+          "altEn": "DEX-troyer icon",
+          "altZh": "DEX-troyer图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-double-barrel-shotgun",
+      "kind": "weapon",
+      "name": "Double Barrel Shotgun",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_DOUBLE_BARREL_SHOTGUN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Double_Barrel_Shotgun.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/7/72/Double_Barrel_Shotgun.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Double_Barrel_Shotgun.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "494a19d9f302a519b6d85b909919a6bd80af8fca",
+          "altEn": "Double Barrel Shotgun icon",
+          "altZh": "Double Barrel Shotgun图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-drill",
+      "kind": "weapon",
+      "name": "Drill",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_DRILL",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Drill.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/8/88/Drill.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Drill.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "f76aa928415fd819ebad46c3f64ec7211918a9f6",
+          "altEn": "Drill icon",
+          "altZh": "Drill图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-excalibur",
+      "kind": "weapon",
+      "name": "Excalibur",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_EXCALIBUR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Excalibur.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/f/fa/Excalibur.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Excalibur.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "5975bfa80711fe2ba01d0ac4c6c017cdb72bd18b",
+          "altEn": "Excalibur icon",
+          "altZh": "Excalibur图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-fireball",
+      "kind": "weapon",
+      "name": "Fireball",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_FIREBALL",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Fireball.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/ae/Fireball.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Fireball.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "e0a95159d2a2045cd30e41582692279b7666ac02",
+          "altEn": "Fireball icon",
+          "altZh": "Fireball图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-fist",
+      "kind": "weapon",
+      "name": "Fist",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_FIST",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Fist.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/1/17/Fist.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Fist.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "ae759311d5a76a0b3c30bec10161857cb0663af7",
+          "altEn": "Fist icon",
+          "altZh": "Fist图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-flamethrower",
+      "kind": "weapon",
+      "name": "Flamethrower",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_FLAMETHROWER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Flamethrower.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/ad/Flamethrower.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Flamethrower.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "bd18058fbe03f930236b821ea06d660ef7c44f33",
+          "altEn": "Flamethrower icon",
+          "altZh": "Flamethrower图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-flaming-brass-knuckles",
+      "kind": "weapon",
+      "name": "Flaming Brass Knuckles",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_FLAMING_BRASS_KNUCKLES",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Flaming_Brass_Knuckles.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/cf/Flaming_Brass_Knuckles.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Flaming_Brass_Knuckles.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "d879162e6963616b12a0158a20e582e09bdfed92",
+          "altEn": "Flaming Brass Knuckles icon",
+          "altZh": "Flaming Brass Knuckles图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-flute",
+      "kind": "weapon",
+      "name": "Flute",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_FLUTE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Flute.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/d/db/Flute.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Flute.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "0c21816bd1c8300689a2dc5c68eebba1aafc50c6",
+          "altEn": "Flute icon",
+          "altZh": "Flute图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-gatling-laser",
+      "kind": "weapon",
+      "name": "Gatling Laser",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_GATLING_LASER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Gatling_Laser.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/8/8f/Gatling_Laser.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Gatling_Laser.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "915e2ad0ef28e6937cbb3a4192963f3e2ab947cf",
+          "altEn": "Gatling Laser icon",
+          "altZh": "Gatling Laser图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-ghost-axe",
+      "kind": "weapon",
+      "name": "Ghost Axe",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_GHOST_AXE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Ghost_Axe.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/3/3a/Ghost_Axe.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Ghost_Axe.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "d61aa54a17aa4b59980701718dc2e5d4d6fe9191",
+          "altEn": "Ghost Axe icon",
+          "altZh": "Ghost Axe图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-ghost-flint",
+      "kind": "weapon",
+      "name": "Ghost Flint",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_GHOST_FLINT",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Ghost_Flint.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/b/b4/Ghost_Flint.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Ghost_Flint.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "d67c078025dc188d13a8591b46760f7152387633",
+          "altEn": "Ghost Flint icon",
+          "altZh": "Ghost Flint图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-ghost-scepter",
+      "kind": "weapon",
+      "name": "Ghost Scepter",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_GHOST_SCEPTER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Ghost_Scepter.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/2/29/Ghost_Scepter.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Ghost_Scepter.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "ff10e169d8fcae9639ab2af12e94ee5cb9c562ef",
+          "altEn": "Ghost Scepter icon",
+          "altZh": "Ghost Scepter图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-grenade-launcher",
+      "kind": "weapon",
+      "name": "Grenade Launcher",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_GRENADE_LAUNCHER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Grenade_Launcher.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/6/67/Grenade_Launcher.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Grenade_Launcher.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "2a0d24dcd1d1957901c1bb4ad41b52c49e6a49a7",
+          "altEn": "Grenade Launcher icon",
+          "altZh": "Grenade Launcher图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-hammer",
+      "kind": "weapon",
+      "name": "Hammer",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_HAMMER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Hammer.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/8/81/Hammer.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Hammer.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "d08d2b43c652406150012e187ecf0297307e44ac",
+          "altEn": "Hammer icon",
+          "altZh": "Hammer图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-hand",
+      "kind": "weapon",
+      "name": "Hand",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_HAND",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Hand.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/a7/Hand.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Hand.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "7f0b1a4201704de4de9e5204af8c724bc4d6b5ab",
+          "altEn": "Hand icon",
+          "altZh": "Hand图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-harpoon-gun",
+      "kind": "weapon",
+      "name": "Harpoon Gun",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_HARPOON_GUN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Harpoon_Gun.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/a7/Harpoon_Gun.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Harpoon_Gun.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "f19298a42badb76fd2aa794e3027840908f04301",
+          "altEn": "Harpoon Gun icon",
+          "altZh": "Harpoon Gun图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-hatchet",
+      "kind": "weapon",
+      "name": "Hatchet",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_HATCHET",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Hatchet.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/e/ef/Hatchet.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Hatchet.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "550a0149385e439cf46ac8f00f5ef148166fe115",
+          "altEn": "Hatchet icon",
+          "altZh": "Hatchet图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-hiking-pole",
+      "kind": "weapon",
+      "name": "Hiking Pole",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_HIKING_STICK",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Hiking_Pole.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/2/2d/Hiking_Pole.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Hiking_Pole.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "550c43ae6e428116709d0300b887c1241534c5e9",
+          "altEn": "Hiking Pole icon",
+          "altZh": "Hiking Pole图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-icicle",
+      "kind": "weapon",
+      "name": "Icicle",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_ICICLE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Icicle.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/2/23/Icicle.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Icicle.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "6016f0989c9004c5868ca0e71888f6a7bc39abfc",
+          "altEn": "Icicle icon",
+          "altZh": "Icicle图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-javelin",
+      "kind": "weapon",
+      "name": "Javelin",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_JAVELIN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Javelin.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/1/1d/Javelin.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Javelin.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "92332b1a687de7ce84f0532e27bd91aae2d63a08",
+          "altEn": "Javelin icon",
+          "altZh": "Javelin图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-jousting-lance",
+      "kind": "weapon",
+      "name": "Jousting Lance",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_JOUSTING_LANCE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Jousting_Lance.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/c4/Jousting_Lance.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Jousting_Lance.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "9015a8c9e9b2f1d83b85fb263ec4c7bf34508d46",
+          "altEn": "Jousting Lance icon",
+          "altZh": "Jousting Lance图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-knife",
+      "kind": "weapon",
+      "name": "Knife",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_KNIFE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Knife.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/5/58/Knife.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Knife.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "040fcbff81a274c8825824a7d9f2aec6451abad9",
+          "altEn": "Knife icon",
+          "altZh": "Knife图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-laser-gun",
+      "kind": "weapon",
+      "name": "Laser Gun",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_LASER_GUN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Laser_Gun.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/d/d1/Laser_Gun.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Laser_Gun.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "bcb54433b617026ce645b617ec78e1988f20e72b",
+          "altEn": "Laser Gun icon",
+          "altZh": "Laser Gun图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-lightning-shiv",
+      "kind": "weapon",
+      "name": "Lightning Shiv",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_LIGHTNING_SHIV",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Lightning_Shiv.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/d/d1/Lightning_Shiv.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Lightning_Shiv.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "16f89a4b3ff9ed72c7c7178c3a1e4a81589c114a",
+          "altEn": "Lightning Shiv icon",
+          "altZh": "Lightning Shiv图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-lute",
+      "kind": "weapon",
+      "name": "Lute",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_LUTE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Lute.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/5/57/Lute.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Lute.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "cc93fb85e3d6a4527e0cefeb183af4a0182a5e5b",
+          "altEn": "Lute icon",
+          "altZh": "Lute图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-mace",
+      "kind": "weapon",
+      "name": "Mace",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_MACE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Mace.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/6/63/Mace.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Mace.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "22cd47d6cffba4c8a1ae3cff593e78c031256d6f",
+          "altEn": "Mace icon",
+          "altZh": "Mace图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-machine-gun",
+      "kind": "weapon",
+      "name": "Machine Gun",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Machine_Gun.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/e/e0/Machine_Gun.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Machine_Gun.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "55b092916136e37e50ec4ed5fc8ab97a308e7962",
+          "altEn": "Machine Gun icon",
+          "altZh": "Machine Gun图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-meat-tenderizer",
+      "kind": "weapon",
+      "name": "Meat Tenderizer",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Meat_Tenderizer.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/3/30/Meat_Tenderizer.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Meat_Tenderizer.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "7af490b9f601509c7a61635b82662e682a0cb4e5",
+          "altEn": "Meat Tenderizer icon",
+          "altZh": "Meat Tenderizer图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-medical-gun",
+      "kind": "weapon",
+      "name": "Medical Gun",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_MEDICAL_GUN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Medical_Gun.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/f/f6/Medical_Gun.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Medical_Gun.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "7b9e17d32c5d57ac4fa68c8736288bd6c52c4f35",
+          "altEn": "Medical Gun icon",
+          "altZh": "Medical Gun图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-minigun",
+      "kind": "weapon",
+      "name": "Minigun",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_MINIGUN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Minigun.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/e/eb/Minigun.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Minigun.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "6b632e882158a8e0219c986a5979870d30687610",
+          "altEn": "Minigun icon",
+          "altZh": "Minigun图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-molotov-cocktail",
+      "kind": "weapon",
+      "name": "Molotov Cocktail",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Molotov_Cocktail.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/f/fa/Molotov_Cocktail.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Molotov_Cocktail.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "a31e6cbfe92b4962995fd1df4eb5200a0a525e45",
+          "altEn": "Molotov Cocktail icon",
+          "altZh": "Molotov Cocktail图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-nuclear-launcher",
+      "kind": "weapon",
+      "name": "Nuclear Launcher",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_NUCLEAR_LAUNCHER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Nuclear_Launcher.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/d/d8/Nuclear_Launcher.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Nuclear_Launcher.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "973a09d16063c970644b8fe06b690fb23162153d",
+          "altEn": "Nuclear Launcher icon",
+          "altZh": "Nuclear Launcher图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-obliterator",
+      "kind": "weapon",
+      "name": "Obliterator",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_OBLITERATOR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Obliterator.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/e/e1/Obliterator.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Obliterator.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "8ef856f1d273d8c432cc9bb17451dd3fd91561b6",
+          "altEn": "Obliterator icon",
+          "altZh": "Obliterator图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-pan-flute",
+      "kind": "weapon",
+      "name": "Pan Flute",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Pan_Flute.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/0/07/Pan_Flute.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Pan_Flute.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "1016a19e3c16dce39fbd5742cc2fcb55acc642ef",
+          "altEn": "Pan Flute icon",
+          "altZh": "Pan Flute图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-particle-accelerator",
+      "kind": "weapon",
+      "name": "Particle Accelerator",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_PARTICLE_ACCELERATOR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Particle_Accelerator.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/6/68/Particle_Accelerator.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Particle_Accelerator.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "f91ab5c497ec4cd89ea557603a2493ac72a2484b",
+          "altEn": "Particle Accelerator icon",
+          "altZh": "Particle Accelerator图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-pistol",
+      "kind": "weapon",
+      "name": "Pistol",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_PISTOL",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Pistol.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/a2/Pistol.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Pistol.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "f43ce96b76d5bdbbf278095afcb8f8771b4dc3ab",
+          "altEn": "Pistol icon",
+          "altZh": "Pistol图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-plank",
+      "kind": "weapon",
+      "name": "Plank",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_PLANK",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Plank.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/0/0d/Plank.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Plank.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "2e203f094fcb89ba17976b272716f3f9ac4ff445",
+          "altEn": "Plank icon",
+          "altZh": "Plank图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-plasma-sledge",
+      "kind": "weapon",
+      "name": "Plasma Sledge",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_PLASMA_SLEDGEHAMMER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Plasma_Sledge.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/4/47/Plasma_Sledge.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Plasma_Sledge.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "c05bfeb493a28d767e5026b57ab388514800c846",
+          "altEn": "Plasma Sledge icon",
+          "altZh": "Plasma Sledge图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-potato-thrower",
+      "kind": "weapon",
+      "name": "Potato Thrower",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_POTATO_THROWER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Potato_Thrower.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/c6/Potato_Thrower.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Potato_Thrower.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "06ccaefcf48c5cf924027be765a01cf3d1f1553b",
+          "altEn": "Potato Thrower icon",
+          "altZh": "Potato Thrower图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-power-fist",
+      "kind": "weapon",
+      "name": "Power Fist",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_POWER_FIST",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Power_Fist.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/9/98/Power_Fist.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Power_Fist.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "d461b08fd83cfebca47c5edab45dd47958fa3381",
+          "altEn": "Power Fist icon",
+          "altZh": "Power Fist图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-pruner",
+      "kind": "weapon",
+      "name": "Pruner",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_PRUNER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Pruner.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/2/20/Pruner.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Pruner.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "a857c85438ff16a1aea0b2c7b54b692bad1ea8b5",
+          "altEn": "Pruner icon",
+          "altZh": "Pruner图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-quarterstaff",
+      "kind": "weapon",
+      "name": "Quarterstaff",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_FIGHTING_STICK",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Quarterstaff.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/8/85/Quarterstaff.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Quarterstaff.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "effedca057d8761a2767205dcf896ae6d63564b7",
+          "altEn": "Quarterstaff icon",
+          "altZh": "Quarterstaff图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-railgun",
+      "kind": "weapon",
+      "name": "Railgun",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Railgun.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/ab/Railgun.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Railgun.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "99258a92fcbc7e00960edee16c454cb20fa28970",
+          "altEn": "Railgun icon",
+          "altZh": "Railgun图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-revolver",
+      "kind": "weapon",
+      "name": "Revolver",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_REVOLVER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Revolver.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/6/6d/Revolver.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Revolver.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "8eecc570685db337806be5cefeea8678ad925d43",
+          "altEn": "Revolver icon",
+          "altZh": "Revolver图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-rock",
+      "kind": "weapon",
+      "name": "Rock",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_ROCK",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Rock.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/0/0b/Rock.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Rock.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "ebbed062b85021d7642b4f43225d9c9c6816a253",
+          "altEn": "Rock icon",
+          "altZh": "Rock图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-rocket-launcher",
+      "kind": "weapon",
+      "name": "Rocket Launcher",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_ROCKET_LAUNCHER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Rocket_Launcher.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/0/05/Rocket_Launcher.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Rocket_Launcher.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "602a111f6396c6c94f701c9c5ae188bf80ade586",
+          "altEn": "Rocket Launcher icon",
+          "altZh": "Rocket Launcher图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-smg",
+      "kind": "weapon",
+      "name": "SMG",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_SMG",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:SMG.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/d/d6/SMG.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:SMG.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "fa905cbc6bebaf5fecd199bcd01a0903e586ce09",
+          "altEn": "SMG icon",
+          "altZh": "SMG图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-scissors",
+      "kind": "weapon",
+      "name": "Scissors",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_SCISSORS",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Scissors.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/9/92/Scissors.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Scissors.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "576ce44dfe4b6a55d8549e8cdc694ec32309dfb6",
+          "altEn": "Scissors icon",
+          "altZh": "Scissors图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-screwdriver",
+      "kind": "weapon",
+      "name": "Screwdriver",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_SCREWDRIVER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Screwdriver.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/1/1d/Screwdriver.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Screwdriver.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "bafb593dd83a3aff9f47d3a5374508f153ed9271",
+          "altEn": "Screwdriver icon",
+          "altZh": "Screwdriver图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-scythe",
+      "kind": "weapon",
+      "name": "Scythe",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_SCYTHE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Scythe.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/cd/Scythe.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Scythe.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "800db349e96914af25f6a732dda48ca8552b71bf",
+          "altEn": "Scythe icon",
+          "altZh": "Scythe图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-sharp-tooth",
+      "kind": "weapon",
+      "name": "Sharp Tooth",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_SHARP_TOOTH",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Sharp_Tooth.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/af/Sharp_Tooth.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Sharp_Tooth.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "673f822dddbac700eb8bc92589121c420dc8e96c",
+          "altEn": "Sharp Tooth icon",
+          "altZh": "Sharp Tooth图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-shovel",
+      "kind": "weapon",
+      "name": "Shovel",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Shovel.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/7/77/Shovel.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Shovel.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "5ba46c4fa869c57174945ee8a13bd8ee6d21e31e",
+          "altEn": "Shovel icon",
+          "altZh": "Shovel图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-shredder",
+      "kind": "weapon",
+      "name": "Shredder",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_SHREDDER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Shredder.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/6/6e/Shredder.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Shredder.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "19557d83d222951bfd15b40e4337972088d9bb83",
+          "altEn": "Shredder icon",
+          "altZh": "Shredder图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-shuriken",
+      "kind": "weapon",
+      "name": "Shuriken",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_SHURIKEN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Shuriken.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/ac/Shuriken.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Shuriken.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "55bcabca7a714d2925da3900ff97ec0a39a149fc",
+          "altEn": "Shuriken icon",
+          "altZh": "Shuriken图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-sickle",
+      "kind": "weapon",
+      "name": "Sickle",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_SICKLE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Sickle.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/0/02/Sickle.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Sickle.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "f4015b9ff8667d725ee31f0db0ec23eec21b8bda",
+          "altEn": "Sickle icon",
+          "altZh": "Sickle图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-slingshot",
+      "kind": "weapon",
+      "name": "Slingshot",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_SLINGSHOT",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Slingshot.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/3/3f/Slingshot.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Slingshot.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "daa1bccea71ede9e50c44ebf619f1b98a572f19e",
+          "altEn": "Slingshot icon",
+          "altZh": "Slingshot图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-sniper-gun",
+      "kind": "weapon",
+      "name": "Sniper Gun",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_SNIPER_GUN",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Sniper_Gun.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/8/80/Sniper_Gun.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Sniper_Gun.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "7ee7456cbfb1dda35c13b3106f1c281a83ce11d4",
+          "altEn": "Sniper Gun icon",
+          "altZh": "Sniper Gun图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-spear",
+      "kind": "weapon",
+      "name": "Spear",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_SPEAR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Spear.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/4/4f/Spear.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Spear.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "da87629dadedcb4b939bbd668f0960a5d3c4071a",
+          "altEn": "Spear icon",
+          "altZh": "Spear图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-spiky-shield",
+      "kind": "weapon",
+      "name": "Spiky Shield",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_SPIKY_SHIELD",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Spiky_Shield.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/2/22/Spiky_Shield.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Spiky_Shield.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "1cc7df412c42de29dd128175cc4037d3a521e72d",
+          "altEn": "Spiky Shield icon",
+          "altZh": "Spiky Shield图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-spoon",
+      "kind": "weapon",
+      "name": "Spoon",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_SPOON",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Spoon.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/b/b3/Spoon.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Spoon.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "b16199a163818c6631979d8ef3f6c0b67fce2a42",
+          "altEn": "Spoon icon",
+          "altZh": "Spoon图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-stick",
+      "kind": "weapon",
+      "name": "Stick",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_STICK",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Stick.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/a/aa/Stick.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Stick.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "919a2f359bddb65bfece1f02bfb07e2f2da1e9d5",
+          "altEn": "Stick icon",
+          "altZh": "Stick图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-sticky-grenade",
+      "kind": "weapon",
+      "name": "Sticky Grenade",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Sticky_Grenade.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/9/9d/Sticky_Grenade.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Sticky_Grenade.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "d85a4d7e7ee9347dc5fc4438988babd41c1ce40b",
+          "altEn": "Sticky Grenade icon",
+          "altZh": "Sticky Grenade图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-sword",
+      "kind": "weapon",
+      "name": "Sword",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_SWORD",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Sword.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/8/89/Sword.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Sword.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "eb3a3e901d09ac046912f4b0f6eba469573c8db3",
+          "altEn": "Sword icon",
+          "altZh": "Sword图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-taser",
+      "kind": "weapon",
+      "name": "Taser",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_TASER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Taser.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/0/08/Taser.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Taser.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "8f6787f8ab9a8189e8967e674ed5e157c40d9619",
+          "altEn": "Taser icon",
+          "altZh": "Taser图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-thief-dagger",
+      "kind": "weapon",
+      "name": "Thief Dagger",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_DAGGER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Thief_Dagger.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/4/4d/Thief_Dagger.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Thief_Dagger.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "10c218e01d5c2b9acf6fa1864548f8a54c660059",
+          "altEn": "Thief Dagger icon",
+          "altZh": "Thief Dagger图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-thunder-sword",
+      "kind": "weapon",
+      "name": "Thunder Sword",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_THUNDER_SWORD",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Thunder_Sword.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/b/bb/Thunder_Sword.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Thunder_Sword.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "08e003cb8b7ed0e11df9c5c68b57049ec8ad29a9",
+          "altEn": "Thunder Sword icon",
+          "altZh": "Thunder Sword图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-torch",
+      "kind": "weapon",
+      "name": "Torch",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_TORCH",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Torch.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/b/b2/Torch.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Torch.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "587c3a0a0cbaa0052a72588603f680d1930f762e",
+          "altEn": "Torch icon",
+          "altZh": "Torch图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-tranq-rifle",
+      "kind": "weapon",
+      "name": "Tranq Rifle",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Tranq_Rifle.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/5/58/Tranq_Rifle.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Tranq_Rifle.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "36842b571b4c8dc77726e275bebecf20b8907d8d",
+          "altEn": "Tranq Rifle icon",
+          "altZh": "Tranq Rifle图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-trident",
+      "kind": "weapon",
+      "name": "Trident",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_TRIDENT",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Trident.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/9/9a/Trident.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Trident.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "11884362f8b5eab59d8f3d31c318fe4b17fd1854",
+          "altEn": "Trident icon",
+          "altZh": "Trident图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-vorpal-sword",
+      "kind": "weapon",
+      "name": "Vorpal Sword",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_VORPAL_SWORD",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Vorpal_Sword.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/0/06/Vorpal_Sword.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Vorpal_Sword.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "3031de966034ae91770b90a4a2d54cbe0399fbfc",
+          "altEn": "Vorpal Sword icon",
+          "altZh": "Vorpal Sword图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-wand",
+      "kind": "weapon",
+      "name": "Wand",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_WAND",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Wand.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/5/53/Wand.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Wand.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "d4177f73b9fd8c16bfcef07a9618ef93c365a684",
+          "altEn": "Wand icon",
+          "altZh": "Wand图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-war-hammer",
+      "kind": "weapon",
+      "name": "War Hammer",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "WEAPON_WAR_HAMMER",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:War_Hammer.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/5/5d/War_Hammer.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:War_Hammer.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "1788c4cc4cabb8cbb7495743eab0cfea0732cb8e",
+          "altEn": "War Hammer icon",
+          "altZh": "War Hammer图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-whip",
+      "kind": "weapon",
+      "name": "Whip",
+      "editorialZh": null,
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Whip.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/7/71/Whip.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Whip.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "30de712722797e1a456387a45b974ee97086cd17",
+          "altEn": "Whip icon",
+          "altZh": "Whip图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "weapon-wrench",
+      "kind": "weapon",
+      "name": "Wrench",
+      "editorialZh": null,
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "WEAPON_WRENCH",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Wrench.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/7/7c/Wrench.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Wrench.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "7be5d2b9741633243f60547f82084eb60456c90c",
+          "altEn": "Wrench icon",
+          "altZh": "Wrench图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-max-hp",
+      "kind": "stat",
+      "name": "Max HP",
+      "editorialZh": "生命上限",
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "STAT_MAX_HP",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Max_HP.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/3/3b/Max_HP.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Max_HP.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "baffd676b081cfa6272937d069a12b14a8d051cb",
+          "altEn": "Max HP icon",
+          "altZh": "生命上限图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-hp-regeneration",
+      "kind": "stat",
+      "name": "HP Regeneration",
+      "editorialZh": "生命恢复",
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "STAT_HP_REGENERATION",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:HP_Regeneration.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/8/8d/HP_Regeneration.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:HP_Regeneration.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "ea8d9fbce98f287409a5ea25a7d3bf4b4da076e9",
+          "altEn": "HP Regeneration icon",
+          "altZh": "生命恢复图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-life-steal",
+      "kind": "stat",
+      "name": "Life Steal",
+      "editorialZh": "生命偷取",
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Life_Steal.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/b/b5/Life_Steal.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Life_Steal.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "a81abcbf23a909df892f71467e00a70ada0c1f67",
+          "altEn": "Life Steal icon",
+          "altZh": "生命偷取图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-damage",
+      "kind": "stat",
+      "name": "Damage",
+      "editorialZh": "伤害",
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "STAT_DAMAGE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Damage.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/6/6a/Damage.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Damage.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "29152f12175e726b0b49539465ac8ceb33974dde",
+          "altEn": "Damage icon",
+          "altZh": "伤害图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-melee-damage",
+      "kind": "stat",
+      "name": "Melee Damage",
+      "editorialZh": "近战伤害",
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "STAT_MELEE_DAMAGE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Melee_Damage.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/0/01/Melee_Damage.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Melee_Damage.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "207b0a2c33d90c8eeb878eee5d156554e96fd92f",
+          "altEn": "Melee Damage icon",
+          "altZh": "近战伤害图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-ranged-damage",
+      "kind": "stat",
+      "name": "Ranged Damage",
+      "editorialZh": "远程伤害",
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "STAT_RANGED_DAMAGE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Ranged_Damage.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/c/cb/Ranged_Damage.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Ranged_Damage.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "2f7c62fea62e46dac98ca608ff44d378df7f0157",
+          "altEn": "Ranged Damage icon",
+          "altZh": "远程伤害图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-elemental-damage",
+      "kind": "stat",
+      "name": "Elemental Damage",
+      "editorialZh": "元素伤害",
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "STAT_ELEMENTAL_DAMAGE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Elemental_Damage.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/8/82/Elemental_Damage.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Elemental_Damage.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "6dc43d085ca8990e9570a593267be48823e1025d",
+          "altEn": "Elemental Damage icon",
+          "altZh": "元素伤害图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-attack-speed",
+      "kind": "stat",
+      "name": "Attack Speed",
+      "editorialZh": "攻击速度",
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Attack_Speed.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/6/6e/Attack_Speed.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Attack_Speed.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "adb3fcff026c3d955e7f58cfdac04f6bf913a5dd",
+          "altEn": "Attack Speed icon",
+          "altZh": "攻击速度图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-crit-chance",
+      "kind": "stat",
+      "name": "Crit Chance",
+      "editorialZh": "暴击率",
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Crit_Chance.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/4/41/Crit_Chance.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Crit_Chance.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "6ecfe9eed6b283427b330a96c1c92bef11dfda26",
+          "altEn": "Crit Chance icon",
+          "altZh": "暴击率图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-engineering",
+      "kind": "stat",
+      "name": "Engineering",
+      "editorialZh": "工程学",
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "STAT_ENGINEERING",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Engineering_Stat.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/2/28/Engineering_Stat.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Engineering_Stat.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "15bc67f7f93b7e6e84bea12a70dc55000a8b8025",
+          "altEn": "Engineering icon",
+          "altZh": "工程学图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-range",
+      "kind": "stat",
+      "name": "Range",
+      "editorialZh": "范围",
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "STAT_RANGE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Range_Stat.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/2/21/Range_Stat.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Range_Stat.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "9cd9f316f565369b5dc822d5877e190f40deb6d7",
+          "altEn": "Range icon",
+          "altZh": "范围图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-armor",
+      "kind": "stat",
+      "name": "Armor",
+      "editorialZh": "护甲",
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "STAT_ARMOR",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Armor.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/0/06/Armor.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Armor.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "9b9f476242b9a2db867dfb40cb3420f6620cb414",
+          "altEn": "Armor icon",
+          "altZh": "护甲图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-dodge",
+      "kind": "stat",
+      "name": "Dodge",
+      "editorialZh": "闪避",
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Dodge_Stat.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/7/72/Dodge_Stat.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Dodge_Stat.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "46f6fe40836666b8179851b600c443f19c1f2183",
+          "altEn": "Dodge icon",
+          "altZh": "闪避图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-speed",
+      "kind": "stat",
+      "name": "Speed",
+      "editorialZh": "速度",
+      "translationCandidates": [],
+      "translationStatus": "unmatched",
+      "images": [
+        {
+          "fileTitle": "File:Speed_Stat.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/e/e0/Speed_Stat.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Speed_Stat.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "a08be51d1a31ceb462a829fa1eb08dedcba6d068",
+          "altEn": "Speed icon",
+          "altZh": "速度图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-luck",
+      "kind": "stat",
+      "name": "Luck",
+      "editorialZh": "幸运",
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "STAT_LUCK",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Luck.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/f/f0/Luck.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Luck.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "099c635324b8c0bd08d95c2f9d1f6e4d1d977666",
+          "altEn": "Luck icon",
+          "altZh": "幸运图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-harvesting",
+      "kind": "stat",
+      "name": "Harvesting",
+      "editorialZh": "收获",
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.14.1.csv",
+          "key": "STAT_HARVESTING",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Harvesting.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/b/bb/Harvesting.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Harvesting.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "195087c3722d9bb92b24a1c0d280e210f24c18cd",
+          "altEn": "Harvesting icon",
+          "altZh": "收获图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    },
+    {
+      "id": "stat-curse",
+      "kind": "stat",
+      "name": "Curse",
+      "editorialZh": "诅咒",
+      "translationCandidates": [
+        {
+          "file": "translations-v1.1.13.2-dlc_1.csv",
+          "key": "STAT_CURSE",
+          "zhPresent": true,
+          "zhHantPresent": true
+        }
+      ],
+      "translationStatus": "candidate",
+      "images": [
+        {
+          "fileTitle": "File:Curse.png",
+          "url": "https://brotato.wiki.spellsandguns.com/images/8/85/Curse.png",
+          "filePage": "https://brotato.wiki.spellsandguns.com/File:Curse.png",
+          "width": 96,
+          "height": 96,
+          "sha1": "8bbade635862642731ac7b0bca96c4b84f9ec5fd",
+          "altEn": "Curse icon",
+          "altZh": "诅咒图标",
+          "reuse": "unverified",
+          "publishable": false
+        }
+      ],
+      "mappingStatus": "linked-page-candidate",
+      "visualReview": "pending"
+    }
+  ]
+}
