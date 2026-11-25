@@ -1,5 +1,5 @@
 """Collect image metadata only. No image binaries or article prose are downloaded."""
-import json,time,urllib.request,urllib.parse,urllib.robotparser,re
+import json,time,urllib.error,urllib.request,urllib.parse,urllib.robotparser,re
 from html.parser import HTMLParser
 from pathlib import Path
 BASE='https://brotato.wiki.spellsandguns.com'
@@ -24,7 +24,11 @@ class Images(HTMLParser):
         if tag=='a':self.anchor=None
 
 def main():
-    robots=get(BASE+'/robots.txt');rp=urllib.robotparser.RobotFileParser();rp.parse(robots.splitlines())
+    try: robots=get(BASE+'/robots.txt')
+    except urllib.error.HTTPError as e:
+        if e.code!=404: raise
+        robots='' # A missing robots file imposes no robots rules; not a content license.
+    rp=urllib.robotparser.RobotFileParser();rp.parse(robots.splitlines())
     if not rp.can_fetch(UA,BASE+'/api.php'):raise RuntimeError('robots.txt disallows API; stopped')
     old=json.loads((ROOT/'data/expanded-targets.json').read_text())
     known={x['name']:x['id'] for x in old};assets={};inventories=[]
