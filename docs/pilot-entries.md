@@ -15,3 +15,17 @@
 各页面链接、修订号、核查日期保存在 site/data.js 的 provenance 中，详情页提供固定修订链接。sourceId 指向本项目原创摘要，并非声称英文 Wiki 使用 MIT。游戏版本尚未逐项确认，gameVersion 留空；页面修订号不能当作游戏版本号。既有翻译映射中的未确认条目保持待审核。
 
 验证：node scripts/validate-data.cjs、node scripts/test-data.cjs、node scripts/test-ui.cjs，以及 app.js/data.js 语法检查。界面测试使用模拟 DOM，覆盖分类、中英繁体及别名搜索、全角字符、详情开关、来源链接、空结果和重置；尚未完成真实浏览器视觉回归。
+
+## 第二批（2026-11-24）
+总数增至 12。新增内容仍采用原创概述、符号图标，不接入数值表。所选简繁短名称与固定版本 CSV 核对一致，核对边界见 chinese-sources.md。
+
+| 英文原名 | 编辑名 | 英文参考页修订 |
+|---|---|---|
+| Ranger | 游侠 | [7328](https://brotato.wiki.spellsandguns.com/index.php?title=Ranger&oldid=7328) |
+| Mage | 法师 | [7329](https://brotato.wiki.spellsandguns.com/index.php?title=Mage&oldid=7329) |
+| Pistol | 手枪 | [6783](https://brotato.wiki.spellsandguns.com/index.php?title=Pistol&oldid=6783) |
+| Slingshot | 弹弓 | [4396](https://brotato.wiki.spellsandguns.com/index.php?title=Slingshot&oldid=4396) |
+| Cake | 蛋糕 | [1142](https://brotato.wiki.spellsandguns.com/index.php?title=Cake&oldid=1142) |
+| Coffee | 咖啡 | [6728](https://brotato.wiki.spellsandguns.com/index.php?title=Coffee&oldid=6728) |
+
+新增测试逐项验证简体/繁体/别名搜索后打开的实体正确。真实浏览器视觉回归仍未完成。
