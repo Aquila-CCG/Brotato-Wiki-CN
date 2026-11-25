@@ -14,3 +14,10 @@
 选词顺序：对应版本官方 CSV → 经同一实体与版本核实的社区候选 → 明示待审的原创翻译。社区别名辅助搜索，不覆盖官方显示名。简繁译文分开存储，禁止自动简繁转换冒充官方繁体。模组、DLC、本体分离。
 
 已确认 CSV 存在 zh 与 zh_TW 列，但未完成全量质量统计，因此尚不能声称中文覆盖完整。下一步以稳定 translation key 建立英文 Wiki 实体映射，统计缺词、重名、空值、占位符和版本冲突，人工审核后再发布。
+
+## 第二批名称核对（2026-11-24）
+已逐项核对 Ranger、Mage、Pistol、Slingshot、Cake、Coffee 的简体与繁体名称：本项目所选简短编辑名称均与官方翻译仓库固定提交 `442c3446c922e22cd7f1305bc206ac0219ed7d07` 的 `translations-v1.1.14.1.csv` 对应行一致。对应键为 CHARACTER_RANGER、CHARACTER_MAGE、WEAPON_PISTOL、WEAPON_SLINGSHOT、ITEM_CAKE、ITEM_COFFEE。该核对不代表获得翻译文件的再发布许可，也不代表已核验 Switch 的具体版本；网站仍标注非官方编辑译名，不复制 CSV 效果文案。
+
+[中文 BWIKI 翻译对照表](https://wiki.biligame.com/brotato/翻译对照表)标明数据来自官方 Discord 分享的 CSV，页面日期为 2023-05-04。它适合辅助核查历史名称，不能证明覆盖最新版本。没有导入该表。
+
+此前关于“未完成全量质量统计”的段落记录的是初次调查状态；后续统计与缺词结果见 translation-mapping.md、expanded-mapping.md 和 data/translation-audit.json，不能据此宣称完整覆盖。
